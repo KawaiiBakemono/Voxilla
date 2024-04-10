@@ -1,0 +1,21 @@
+
+ ██████╗██████╗ ███████╗██████╗ ██╗████████╗███████╗
+██╔════╝██╔══██╗██╔════╝██╔══██╗██║╚══██╔══╝██╔════╝
+██║     ██████╔╝█████╗  ██║  ██║██║   ██║   ███████╗
+██║     ██╔══██╗██╔══╝  ██║  ██║██║   ██║   ╚════██║
+╚██████╗██║  ██║███████╗██████╔╝██║   ██║   ███████║
+ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝   ╚═╝   ╚══════╝
+
+
+StormDragon77:
+	From Stormilla: https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/
+	- Recipe book texture
+	- Warped stem texture
+	- All torch textures (Base to create my own textures)
+	- Door Items
+	
+Hecco:
+	- Riper Propagules: https://www.planetminecraft.com/texture-pack/riper-propagules/
+	
+Pythagoras_314
+	- Accurate Jappa Dirt: https://www.planetminecraft.com/texture-pack/accurate-jappa-dirt/
